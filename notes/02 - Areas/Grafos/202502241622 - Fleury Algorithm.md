@@ -2,7 +2,6 @@
 date: 2025-02-24T16:22
 tags: 
 cssclasses:
-  - page-manila
   - center-titles
 ---
 # Algoritmo de Fleury
