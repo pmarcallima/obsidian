@@ -1,8 +1,8 @@
 {
   "accentColor": "#43cfea",
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Vanilla AMOLED",
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "ComicCode Nerd Font,JetBrainsMono Nerd Font Mono",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "enabledCssSnippets": [
     "retro-notebook-bg",
